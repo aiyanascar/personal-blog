@@ -1,0 +1,10 @@
+#postsContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.post {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1rem 0;
+}
