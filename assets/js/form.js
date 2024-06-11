@@ -15,3 +15,4 @@ document.getElementById('blogForm').addEventListener('submit', function(event) {
 
     window.location.href = 'blog.html';
 });
+
